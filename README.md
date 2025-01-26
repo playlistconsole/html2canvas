@@ -49,7 +49,15 @@ The function returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/Ja
     });
 
 ### Building ###
-
+https://www.youtube.com/playlist/PLdEH5OBnYE-Y2a_6sU7bE_9GATJidVOO7
+https://www.youtube.com/playlist/PLdEH5OBnYE-ZMGdskFr6GccrcdNt4C-2V
+https://www.youtube.com/playlist/PLdEH5OBnYE-ZgHstNyinGSXBxdCkrZ0tP
+https://www.youtube.com/playlist/PLdEH5OBnYE-aCnuw4m2kyvaOU5OkEIlCG
+https://www.youtube.com/playlist/PLdEH5OBnYE-ae6Fx2cwkaR2522kFP6FP2
+https://www.youtube.com/playlist/PLdEH5OBnYE-bLBPNtO_zMXTnRie3BFQ2h
+https://www.youtube.com/playlist/PLdEH5OBnYE-bYCvAKxySFHn0W4HhKR3xd
+https://www.youtube.com/playlist/PLdEH5OBnYE-bm0oi8xY8mR8g420V7DFqt
+https://www.youtube.com/playlist/PLdEH5OBnYE-bo1QKBdtCQ4WGpA1FxJUl8
 You can download ready builds [here](https://github.com/niklasvh/html2canvas/releases).
 
 Clone git repository:
